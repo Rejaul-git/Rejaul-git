@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">👋 হ্যালো, আমি Rejaul Karim</h1>
 <h3 align="center">💻 একজন Full Stack Developer | PHP, Node.js, React, Laravel, WordPress</h3>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rejaul-git&label=Profile%20views&color=0e75b6&style=flat" alt="Rejaul-git" />
@@ -78,3 +76,4 @@ Here are some ideas to get you started:
 
 ```bash
 আমি একজন Passionate Web Developer. Laravel, React, Vue, WordPress সহ বিভিন্ন টেকনোলজি নিয়ে কাজ করতে ভালোবাসি।
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
