@@ -1,73 +1,105 @@
-## Hi there 👋
+<h1 align="center">Esteham H. Zihad Ansari</h1>
 
-<!--
-**Rejaul-git/Rejaul-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a  href="https://github.com/esteham" target="_blank"><img align="right" src="https://komarev.com/ghpvc/?username=esteham&label=Profile%20views&color=0e75b6&style=flat" alt="esteham" />
+<br>
+<!--<img align="right" width="300" height="180" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Description of the image">-->
+<a  href="https://github.com/esteham" >
+    <img align="right" width="430" height="300"  src="https://github-stats-alpha.vercel.app/api?username=esteham&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats">
+</a>
 
-Here are some ideas to get you started:
+<h3 align="left"> About Me</h3>
+<!-- <br> 
+<h4 align="center">I am a developer from Bangladesh</h4> -->
+<p>I am a passionate and skilled web developer with a deep understanding of both front-end and back-end technologies. My focus lies in building seamless digital experiences by integrating powerful APIs and ensuring scalability.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">👋 হ্যালো, আমি Rejaul Karim</h1>
-<h3 align="center">💻 একজন Full Stack Developer | PHP, Node.js, React, Laravel, WordPress</h3>
+- 🌱 I’m currently learning  <span style="top: 10px;">![Static Badge](https://img.shields.io/badge/laravel-red?style=plastic&logo=laravel&logoColor=red&labelColor=white)
+</span>
+  <!--![Static Badge](https://img.shields.io/badge/php-black?style=flat&logo=php&logoColor=black&color=blue)-->
+  
+- 🌐 Website <a href='https://xetroot.com/' target="_blank">Xetroot</a><br>
+- 📫 How to reach me <a href="mailto:eshasan1287005@gmail.com?subject=Subject%20Here&body=Hello%20This%20is%20a%20test%20email." target="_blank">
+   [*Send Mail*] 
+</a>
+- 📄 Need something? Hit me up on <a href="https://www.linkedin.com/in/esteham/" target="_blank" rel="noopener noreferrer">[*LinkedIn*]</a>, where you can see my professional face.
+<br><br>
+<!--<h3>⚡Fun fact About Me</h3> 
+<p>I’m building a platform to help travelers find buddies because exploring the world alone is cool, but having someone to take your awkward tourist pics is even better.</p>
+<br> -->
+<h3 align="left">💻 My Tech Skills</h3>
+<p align="left"> 
 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rejaul-git&label=Profile%20views&color=0e75b6&style=flat" alt="Rejaul-git" />
-</p>
+<!--![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)-->
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Static Badge](https://img.shields.io/badge/jQuery-skyblue?style=for-the-badge&logo=jQuery)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-<p align="center">
-  <a href="mailto:rejaulk431@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<!--![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)-->
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Static Badge](https://img.shields.io/badge/wordpress-blue?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=gray)
 
----
+![Static Badge](https://img.shields.io/badge/php-%231974b5?style=for-the-badge&logo=php&logoColor=black&logoSize=auto)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/laravel-red?style=for-the-badge&logo=laravel&logoColor=red&labelColor=white)
 
-### 🧰 Technologies & Tools I Use:
+<!--DevOps & Tools-->
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
----
-
-### 📈 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rejaul-git&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rejaul-git&theme=tokyonight" height="150" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rejaul-git&theme=dracula&no-bg=true&margin-w=4" />
-</p>
-
----
-
-### 📊 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rejaul-git&bg_color=0d1117&color=ffffff&line=00bfff&point=ffffff&area=true&hide_border=true" />
-</p>
-
----
-
-### 🙋‍♂️ কিছু কথাঃ
-
-```bash
-আমি একজন Passionate Web Developer. Laravel, React, Vue, WordPress সহ বিভিন্ন টেকনোলজি নিয়ে কাজ করতে ভালোবাসি।
-<h3 align="center">A passionate frontend developer from India</h3>
+<!--Tools & Utilities-->
+<!--![cPanel](https://img.shields.io/badge/cPanel-FB6C2C?style=for-the-badge&logo=cpanel&logoColor=white)-->
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Static Badge](https://img.shields.io/badge/hPanel-blue?style=for-the-badge&logo=hostinger&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+<!--![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Thundercloud](https://img.shields.io/badge/Thundercloud-0080FF?style=for-the-badge&logo=cloudflare&logoColor=white)-->
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/esteham-h-zihad-ansari-b8a751199/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/esteham-h-zihad-ansari-b8a751199/" height="30" width="50" /></a>
+<a href="https://www.facebook.com/esteham" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/esteham" height="30" width="50" /></a>
 </p>
+
+<br>
+<h3>📊 GitHub Stats</h3>
+<p align="center">
+  <a hre="https://github.com/esteham" target="_blank">
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=esteham&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" />
+  </a>
+   <a hre="https://github.com/esteham">
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=esteham&layout=compact&langs_count=8&theme=material-palenight&count_private=true" />
+  </a>
+</p>
+<!-- <br>
+<br>
+<h3>🌟Contribute</h3>
+<p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esteham&" alt="esteham" /></p> -->
+
+<div align="center">
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Vaibhav2002/Vaibhav2002/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Vaibhav2002/Vaibhav2002/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Vaibhav2002/Vaibhav2002/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
+
+
+<br>
+<h3>🌐 Live Projects</h3>
+
+| Project         | Description                     | URL                                             |
+|-----------------|---------------------------------|-------------------------------------------------|
+| 💼 Portfolio   | Portfolio Website               | <a href="https://xetroot.com/" target="_blank" rel="noopener noreferrer">Esteham</a>                  |
+| 🛒 Xet Shop    | Ecommerce system  (PHP & MySQL) | <a href="https://eshop.xetroot.com/" target="_blank" rel="noopener noreferrer">E-commerce XetShop</a> |
+| ✈️ Aviation    | Flight application (PHP & MySQL)| <a href="https://aviation.xetroot.com/" target="_blank" rel="noopener noreferrer">Aviation System</a> |
+| 🧪 XetLab      | Lab application  (Wordpress)    | <a href="https://xetlab.xetroot.com/" target="_blank" rel="noopener noreferrer">Xetlab</a>            |
+| 🏖️ Xetout      | Travel Blog    (Wordpress)      | <a href="https://xetout.xetroot.com/" target="_blank" rel="noopener noreferrer">Xetout Blog</a>       |
+| 👷‍♂️ Kamlar Khoj  | Local Service   (REACT)        | <a href="https://kamla.xetroot.com/" target="_blank" rel="noopener noreferrer">Local Service</a>      |
