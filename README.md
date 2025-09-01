@@ -1,6 +1,6 @@
-<h1 align="center">Esteham H. Zihad Ansari</h1>
+<h1 align="center">Rejaul Karim</h1>
 
-<a  href="https://github.com/esteham" target="_blank"><img align="right" src="https://komarev.com/ghpvc/?username=esteham&label=Profile%20views&color=0e75b6&style=flat" alt="esteham" />
+<a  href="https://github.com/esteham" target="_blank"><img align="right" src="[https://komarev.com/ghpvc/?username=esteham&label=Profile%20views&color=0e75b6&style=flat](https://image.idb-bisew.info/Images/00001/00059/0058546.jpeg)" alt="esteham" />
 <br>
 <!--<img align="right" width="300" height="180" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Description of the image">-->
 <a  href="https://github.com/esteham" >
@@ -16,15 +16,12 @@
 </span>
   <!--![Static Badge](https://img.shields.io/badge/php-black?style=flat&logo=php&logoColor=black&color=blue)-->
   
-- 🌐 Website <a href='https://xetroot.com/' target="_blank">Xetroot</a><br>
-- 📫 How to reach me <a href="mailto:eshasan1287005@gmail.com?subject=Subject%20Here&body=Hello%20This%20is%20a%20test%20email." target="_blank">
+- 🌐 Website <a href='https://brainstone.com/' target="_blank">brainstone</a><br>
+- 📫 How to reach me <a href="" target="_blank">
    [*Send Mail*] 
 </a>
-- 📄 Need something? Hit me up on <a href="https://www.linkedin.com/in/esteham/" target="_blank" rel="noopener noreferrer">[*LinkedIn*]</a>, where you can see my professional face.
+- 📄 Need something? Hit me up on <a href="" target="_blank" rel="noopener noreferrer">[*LinkedIn*]</a>, where you can see my professional face.
 <br><br>
-<!--<h3>⚡Fun fact About Me</h3> 
-<p>I’m building a platform to help travelers find buddies because exploring the world alone is cool, but having someone to take your awkward tourist pics is even better.</p>
-<br> -->
 <h3 align="left">💻 My Tech Skills</h3>
 <p align="left"> 
 
@@ -64,8 +61,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/esteham-h-zihad-ansari-b8a751199/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/esteham-h-zihad-ansari-b8a751199/" height="30" width="50" /></a>
-<a href="https://www.facebook.com/esteham" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/esteham" height="30" width="50" /></a>
+<a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="50" /></a>
+<a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="50" /></a>
 </p>
 
 <br>
@@ -81,7 +78,6 @@
 <!-- <br>
 <br>
 <h3>🌟Contribute</h3>
-<p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esteham&" alt="esteham" /></p> -->
 
 <div align="center">
  <picture>
@@ -97,9 +93,5 @@
 
 | Project         | Description                     | URL                                             |
 |-----------------|---------------------------------|-------------------------------------------------|
-| 💼 Portfolio   | Portfolio Website               | <a href="https://xetroot.com/" target="_blank" rel="noopener noreferrer">Esteham</a>                  |
-| 🛒 Xet Shop    | Ecommerce system  (PHP & MySQL) | <a href="https://eshop.xetroot.com/" target="_blank" rel="noopener noreferrer">E-commerce XetShop</a> |
-| ✈️ Aviation    | Flight application (PHP & MySQL)| <a href="https://aviation.xetroot.com/" target="_blank" rel="noopener noreferrer">Aviation System</a> |
-| 🧪 XetLab      | Lab application  (Wordpress)    | <a href="https://xetlab.xetroot.com/" target="_blank" rel="noopener noreferrer">Xetlab</a>            |
-| 🏖️ Xetout      | Travel Blog    (Wordpress)      | <a href="https://xetout.xetroot.com/" target="_blank" rel="noopener noreferrer">Xetout Blog</a>       |
-| 👷‍♂️ Kamlar Khoj  | Local Service   (REACT)        | <a href="https://kamla.xetroot.com/" target="_blank" rel="noopener noreferrer">Local Service</a>      |
+| 💼 Portfolio   | Portfolio Website               | <a href="https://brainstone.com/" target="_blank" rel="noopener noreferrer">college management system</a>                  |
+| 🛒 Xet Shop    | Ecommerce system  (PHP & MySQL) | <a href="https://blog.brainstone.com/" target="_blank" rel="noopener noreferrer">news</a> |                                                                                                                                      
