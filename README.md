@@ -93,5 +93,5 @@
 
 | Project         | Description                     | URL                                             |
 |-----------------|---------------------------------|-------------------------------------------------|
-| 💼 Portfolio   | Portfolio Website               | <a href="https://brainstone.com/" target="_blank" rel="noopener noreferrer">college management system</a>                  |
-| 🛒 Xet Shop    | Ecommerce system  (PHP & MySQL) | <a href="https://blog.brainstone.com/" target="_blank" rel="noopener noreferrer">news</a> |                                                                                                                                      
+| 💼 student management  |      college management system    | <a href="https://brainstone.com/" target="_blank" rel="noopener noreferrer">college management system</a>           |
+| 🛒 news    | wordpress news website               | <a href="https://blog.brainstone.com/" target="_blank" rel="noopener noreferrer">news</a> |                                                                                                                                      
