@@ -89,13 +89,11 @@
 
   | Project         | Description                     | URL                                             |
   |-----------------|---------------------------------|-------------------------------------------------|
-  | 💼 Portfolio   | Portfolio Website               | <a href="https://xetroot.com/" target="_blank" rel="noopener noreferrer">Rejaul-git</a>                  |
-  | 🛒 Xet Shop    | Ecommerce system  (PHP & MySQL) | <a href="https://eshop.xetroot.com/" target="_blank" rel="noopener noreferrer">E-commerce XetShop</a> |
-  | ✈️ Aviation    | Flight application (PHP & MySQL)| <a href="https://aviation.xetroot.com/" target="_blank" rel="noopener noreferrer">Aviation System</a> |
-  | 🧪 XetLab      | Lab application  (Wordpress)    | <a href="https://xetlab.xetroot.com/" target="_blank" rel="noopener noreferrer">Xetlab</a>            |
-  | 🏖️ Xetout      | Travel Blog    (Wordpress)      | <a href="https://xetout.xetroot.com/" target="_blank" rel="noopener noreferrer">Xetout Blog</a>       |
-  | 👷‍♂️ Kamlar Khoj  | Local Service   (REACT)        | <a href="https://kamla.xetroot.com/" target="_blank" rel="noopener noreferrer">Local Service</a>      |
-
+  | 💼 Portfolio   | Portfolio Website               | <a href="https://portfolio.brainstone.xyz/" target="_blank" rel="noopener noreferrer">Rejaul-git</a>                  |
+  | 🛒 cms    | collage management system  (PHP & MySQL) | <a href="https://brainstone.xyz/" target="_blank" rel="noopener noreferrer">collage management system</a> |
+  | ✈️ marketplace    | freelance marketplace (PHP & React and MySQL)| <a href="https://marketplace.brainstone.xyz/" target="_blank" rel="noopener noreferrer">freelance marketplace</a> |
+  | 🧪 News       | News Platform  (Wordpress)    | <a href="https://blog.brainstone.xyz/" target="_blank" rel="noopener noreferrer">News</a>  |
+  |-----------------|---------------------------------|-------------------------------------------------|-------------------------------------------------|
 </div>
 
 
