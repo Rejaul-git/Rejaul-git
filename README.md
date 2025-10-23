@@ -92,8 +92,8 @@
   | 🎓 cms    | collage management system  (PHP & MySQL) | <a href="https://brainstone.xyz/" target="_blank" rel="noopener noreferrer">collage management system</a> |
   | 💰 marketplace    | freelance marketplace (PHP & React and MySQL)| <a href="https://marketplace.brainstone.xyz/" target="_blank" rel="noopener noreferrer">freelance marketplace</a> |
   | 🆕 News       | News Platform  (Wordpress)    | <a href="https://blog.brainstone.xyz/" target="_blank" rel="noopener noreferrer">News</a> 
-  | 🏛️ MyUnion        | Smart Citizen Service(Laravel,Blade and MySQL )|<a href="https://myunion.brainstone.xyz/" target="_blank" rel="noopener noreferrer">News</a> |        
-  | 🚢 agency         | import & export agency(vue, laravel(API) & MySQL) |<a href="https://myunion.brainstone.xyz/" target="_blank" rel="noopener noreferrer">News</a> |    
+  | 🏛️ MyUnion        | Smart Citizen Service(Laravel,Blade and MySQL )|<a href="https://myunion.brainstone.xyz/" target="_blank" rel="noopener noreferrer">Smart Citizen Service</a> |        
+  | 🚢 agency         | import & export agency(vue, laravel(API) & MySQL) |<a href="https://myunion.brainstone.xyz/" target="_blank" rel="noopener noreferrer">import & export agency</a> |    
 
 </div>
 
