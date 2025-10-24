@@ -19,8 +19,8 @@
 </span>
   <!--![Static Badge](https://img.shields.io/badge/php-black?style=flat&logo=php&logoColor=black&color=blue)-->
   
-- 🌐 Website <a href='https://xetroot.com/' target="_blank">brainstone</a><br>
-- 📫 How to reach me <a href="mailto:eshasan1287005@gmail.com?subject=Subject%20Here&body=Hello%20This%20is%20a%20test%20email." target="_blank">
+- 🌐 Website <a href='https://brainstone.xyz/' target="_blank">brainstone</a><br>
+- 📫 How to reach me <a href="mailto:rejaulk431@gmail.com?subject=Subject%20Here&body=Hello%20This%20is%20a%20test%20email." target="_blank">
    [*Send Mail*] 
 </a>
 - 📄 Need something? Hit me up on <a href="https://www.linkedin.com/in/Rejaul-git/" target="_blank" rel="noopener noreferrer">[*LinkedIn*]</a>, where you can see my professional face.
